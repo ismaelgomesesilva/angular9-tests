@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "hellow-word"
+    }
+  },
+  "defaultProject": "hellow-word",
+  "cli": {
+    "analytics": "ae202485-9f54-41cf-9de5-a952933d718b"
+  }
 }
